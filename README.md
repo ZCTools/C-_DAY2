@@ -1,1 +1,1 @@
-# C-_DAY2
+# CPP_DAY2
